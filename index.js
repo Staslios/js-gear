@@ -1,0 +1,1 @@
+import './src/array/array.prototype.js'

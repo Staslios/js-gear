@@ -1,0 +1,13 @@
+### ide
+/.vscode
+/.idea
+/.DS_Store
+/.vercel
+/*.pem
+/*.swp
+
+### env files
+.env*
+
+### testing
+/coverage

@@ -1,0 +1,23 @@
+{
+  "name": "js-gear",
+  "version": "1.0.0",
+  "description": "Utility lib for js primitives",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Staslios/js-gear.git"
+  },
+  "author": "Staslios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Staslios/js-gear/issues"
+  },
+  "homepage": "https://github.com/Staslios/js-gear#readme",
+  "devDependencies": {
+    "mocha": "^10.7.3"
+  }
+}
